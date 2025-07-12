@@ -1,0 +1,30 @@
+{
+    "allowed_foods": [
+      {"name": "Fruta", "desc": "Frut i shëndetshëm", "img": "./images/fruta.jpg"},
+      {"name": "Mishi", "desc": "Proteinë e lehtë", "img": "./images/mishi.jpg"},
+      {"name": "Drithera", "desc": "Burim karbohidratesh", "img": "./images/drithera.jpg"}
+    ],
+    "not_allowed_foods": [
+      {"name": "Biskota", "desc": "Me shumë sheqer", "img": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+      {"name": "Fast food", "desc": "Jo i shëndetshëm", "img": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}
+    ],
+    "allowed_drinks": [
+      {"name": "Ujë", "desc": "Pije e pastër dhe e shëndetshme", "img": "https://images.unsplash.com/photo-1624948465027-6f9b51067557?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+      {"name": "Çaj jeshil", "desc": "I pasur me antioksidantë", "img": "https://images.unsplash.com/photo-1627894005682-166e8687356a?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}
+    ],
+    "not_allowed_drinks": [
+        {
+            "name": "Lëng portokalli me sheqer",
+            "desc": "Pije shumë e ëmbël",
+            "img": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "advice": "Sa pish? Maksimum 1 gotë në javë"
+        },
+        {
+            "name": "Kola",
+            "desc": "Gazuar dhe shumë sheqer",
+            "img": "https://images.unsplash.com/photo-1672094732705-b39d78da5bf8?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "advice": "Asnjë gotë, evitoje totalisht"
+        }
+    ]    
+  }
+  
